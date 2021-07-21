@@ -1,5 +1,5 @@
 {
 	"prefix": "<<",
-	"token": "ODY0NjcyNjQ3MzkxNDc3NzYw.YO43Jw.d6uKeJ5PuUL_6Zc_qubmGDGp0As",
-    "mongoPath": "mongodb+srv://catbotadmin:20Twenty20!@cluster0.3yhoo.mongodb.net/CatBotDB?retryWrites=true&w=majority"
+	"token": "",
+    "mongoPath": ""
 }
