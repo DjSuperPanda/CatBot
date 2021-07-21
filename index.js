@@ -76,4 +76,4 @@ client.on('message', message => {
 
 
 //Client ID FOR Discord Bot (DO NOT SHARE ID)
-client.login('ODY0NjcyNjQ3MzkxNDc3NzYw.YO43Jw.d6uKeJ5PuUL_6Zc_qubmGDGp0As');
+client.login('');
